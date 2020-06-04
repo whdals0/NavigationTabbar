@@ -104,7 +104,6 @@ public class MainFragment extends Fragment implements View.OnClickListener, View
 
 
         navigationTabBar.setModels(models);
-        navigationTabBar.setViewPager(viewPager, 2);
 
         navigationTabBar.setTitleMode(NavigationTabBar.TitleMode.ACTIVE);
         navigationTabBar.setBadgeGravity(NavigationTabBar.BadgeGravity.BOTTOM);

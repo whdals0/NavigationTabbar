@@ -3,7 +3,6 @@ package com.roopre.viewpagersample;
 import android.util.Log;
 import android.view.ViewGroup;
 
-
 import java.util.List;
 
 import androidx.annotation.NonNull;
